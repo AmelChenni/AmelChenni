@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Amel Chenni
 
-<!--
-**AmelChenni/AmelChenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a **Front-End Developer** passionate about building clean and responsive web applications.  
+💻 Currently learning **React** and improving my **JavaScript** skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages**: HTML, CSS, JavaScript (ES6+)
+- **Tools**: Git, GitHub
+- **Currently Learning**: React, API Integration
+
+---
+
+### 🚀 Featured Projects
+- [💱 Currency Converter](https://amelchenni.github.io/Currency-Converter/)  
+- [📅 Events Manager App](https://amelchenni.github.io/Events-Manager-Application/)  
+- [🐱 Cat Shopping List](https://amelchenni.github.io/CAT-APP/)  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amel-chenni/)  
+- [Portfolio](https://amelchenni.github.io/)  
+
