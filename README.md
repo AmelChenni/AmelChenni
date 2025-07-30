@@ -23,14 +23,6 @@ Here are some of my favorite projects:
 
 👉 You can explore all my projects in the [Repositories](https://github.com/AmelChenni?tab=repositories).  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmelChenni&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmelChenni&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>  
-</p>
 
 ---
 
