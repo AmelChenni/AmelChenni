@@ -28,7 +28,7 @@ Here are some of my favorite projects:
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/amel-chenni/)  
-- [Portfolio](https://amelchenni.github.io/)  
+- [Portfolio](https://amelchenni.netlify.app/)  
 - [GitHub](https://github.com/AmelChenni)  
 
 ---
