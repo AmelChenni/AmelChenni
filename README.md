@@ -1,35 +1,45 @@
-# 👋 Hi, I'm Amel Chenni  
+# 👋 Hi, I'm Amel Chenni, an Entry-Level Front-End Developer!
 
-🌱 I'm a **Front-End Developer** passionate about creating clean, responsive, and user-friendly web applications.  
-💻 Currently learning **React** and improving my **JavaScript (ES6+)** skills.  
-🚀 Always excited to explore new technologies and build real-world projects.  
+🌱 I'm a **Front-End Developer** specialized in the **React/Redux** ecosystem, passionate about creating clean, responsive, and high-quality web applications.
 
----
+💻 Successfully built and deployed several real-world projects, including a full-featured **E-commerce platform (A-Shop)** and a **Responsive Admin Dashboard**.
 
-## 🛠️ Skills  
-- **Languages:** HTML5, CSS3 (Flexbox, Grid, Responsive Design), JavaScript (ES6+)  
-- **Tools:** Git, GitHub  
-- **Currently Learning:** React, API Integration, Modern Front-End Practices  
+🚀 Focusing on advanced Front-End techniques (REST API Integration, Redux) and actively seeking a Junior Developer role to contribute problem-solving skills to a dynamic team.
 
 ---
 
-## 🚀 Featured Projects  
-Here are some of my favorite projects:  
+## 🛠️ Skills & Technologies
 
-- [💱 Currency Converter](https://amelchenni.github.io/Currency-Converter/) – Convert currencies using live API  
-- [📅 Events Manager App](https://amelchenni.github.io/Events-Manager-Application/) – Manage and save events with Local Storage  
-- [🐱 Cat Shopping List](https://amelchenni.github.io/CAT-APP/) – Shopping list app with Firebase integration  
-- [🖼️ Image Slider](https://amelchenni.github.io/Image-Slider-With-Thumbnails/) – Interactive slider with thumbnails  
-
-👉 You can explore all my projects in the [Repositories](https://github.com/AmelChenni?tab=repositories).  
-
+- **Languages:** HTML5, CSS3 (Flexbox, Grid, **Tailwind CSS**), **JavaScript (ES6+)**
+- **Frameworks & Libraries:** **React, Redux**, Bootstrap
+- **Tools & Platforms:** **Git, GitHub, REST API Integration, Netlify, Firebase (Basic CRUD)**
+- **Concepts:** Responsive Design, Accessibility, UI/UX Principles
 
 ---
 
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/amel-chenni/)  
-- [Portfolio](https://amelchenni.netlify.app/)  
-- [GitHub](https://github.com/AmelChenni)  
+## 🚀 Featured Projects
+
+Here are my most impactful projects:
+
+- **🛒 A-Shop E-commerce Store (React)** - **Focus:** Complex state management, Routing, and modern e-commerce features.
+  - [View Live Demo](https://lnkd.in/gXXxTs6A) | [GitHub Repo](https://github.com/AmelChenni/A-shop-react-store)
+
+- **🌐 Professional Portfolio Website**
+  - **Focus:** Fully responsive, dynamic filtering, CI/CD with Netlify.
+  - [View Live Demo](https://amelchenni.netlify.app/)
+
+- **🔒 Secure Password Generator**
+  - **Focus:** JavaScript logic and Local Storage integration for user data persistence.
+
+👉 You can explore all my projects in the [Repositories](https://github.com/AmelChenni?tab=repositories).
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/amel-chenni/)
+- [Portfolio](https://amelchenni.netlify.app/)
+- [GitHub](https://github.com/AmelChenni)
 
 ---
 ⭐️ From [AmelChenni](https://github.com/AmelChenni)
