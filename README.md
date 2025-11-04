@@ -34,7 +34,7 @@
   - CRUD operations tested via both UI and API layers.
   - Automated HTML reports generated with Mochawesome.
 - **Links & Reports:**
-  [GitHub Repo](https://github.com/AmelChenni/Cypress-E2E-TodoApp-Testing) | [📊 Mochawesome Report](cypress/reports/mochawesome.html)
+  [GitHub Repo](https://github.com/AmelChenni/Cypress-E2E-TodoApp-Testing) 
 - **Screenshots:**
   ![Cypress E2E Testing Result & API Login Implementation](01-GithubActionResult.png)
   ![Mochawesome Report Summary](01-MochawsomeReport-Register.png)
@@ -70,7 +70,6 @@
 - **Screenshots:**
   ![Test Case Screenshot](1-app.png)
   ![Bugs Screenshot](2-bug3.png)
-  ![Certificate Screenshot](certificate.png)
 
 ---
 
@@ -88,7 +87,9 @@
 
 ## 📄 Certifications
 
-![Course Certificate](CypressCertificate.png)
+![Manual Testing Course Certificate](certificate.png)
+![Postman Course Certificate](certificate-postman.png)
+![Cypress Framework Design - Project!](CypressCertificate.png)
 
 ---
 
